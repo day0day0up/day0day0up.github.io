@@ -1,0 +1,231 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+        // customised options
+        // • auto-render specific keys, e.g.:
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false},
+            {left: '\\[', right: '\\]', display: true}
+        ],
+        // • rendering keys, e.g.:
+        throwOnError : false
+      });
+  });
+</script>
+
+
+<!-- <script 
+type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script> -->
+
+<!-- Création : 10 novembre 2008 --> 
+
+
+<title> Yilin Wu </title>
+<meta name="author" content="Yilin Wu" />
+<meta http-equiv="Content-Type" content="text/html; charset="utf-8" />
+<meta http-equiv="Content-Language" content="fr" />
+
+<style type="text/css">
+h2 {color: #007000} 
+h3 {color: #007000}
+</style>
+
+<!--可以在收藏夹中显示出图标-->  
+<link rel="Bookmark"  type="image/x-icon"  href="./images/cluster.ico?"/>  
+<!--可以在地址栏中显示出图标-->  
+<link rel="icon"  type="image/x-icon" href="./images/cluster.ico?" />  
+<link rel="shortcut icon"  type="image/x-icon" href="./images/cluster.ico?" /> 
+
+<!-- <link rel="shortcut icon" href="cluster.ico" type="image/x-icon">
+<link rel="icon" href="cluster.ico" type="image/x-icon"> -->
+
+</head>
+
+
+<body>
+
+<div id="title">
+<h1 class="top" id="top" >Welcome to <strong>Yilin Wu</strong>'s Homepage! 🐈🐈🐈</h1>
+<!-- <h3> Professeur </h3> -->
+
+<!--
+Membre du projet <a href="https://anr-charms.pages.math.cnrs.fr/index.html">ANR CHARMS</a>.</br>
+Membre du projet <a href="http://www.lamfa.u-picardie.fr/palu/SC3A.html">ANR SC<SUP>3</SUP>A</a> (fin 2019). 
+-->
+I obtained my PhDs at Université Paris Cité and ECNU under the direction of <a href="https://webusers.imj-prg.fr/~bernhard.keller">Prof. Bernhard Keller</a> and <a href="https://math.ecnu.edu.cn/~gdzhou/intro_c.html?language=1&id=182">Prof. Guodong Zhou</a>. <br/>
+I am now a Postdoc at USTC.
+</div>
+
+<table style="text-align: left; width: 100%;" border="0" cellpadding="2"
+ cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;">
+      <h2> How to reach me 😺</h2>
+      
+      <p> <b> Adresse: </b> <br/>
+        <blockquote>
+        School of Mathematical Sciences        <br/>
+        University of Science and Technology of China (USTC)     <br/>
+        Hefei, 230026, Anhui Province         <br/>
+        P.R.China    <br/>  
+        </blockquote>
+      </p>
+
+      <p> 
+        <b>Office: </b> Room 1404, 14th Floor, GuanLiKeYan Building (East Campus)
+      </p>
+
+      <p> 
+        <b>Email: </b>
+        <blockquote>
+          yilin.wu@imj-prg.fr <br/>
+          wuyilinecnuwudi@gmail.com <br/>
+          wuyilinmath@ustc.edu.cn<br/>
+        </blockquote>
+        
+      </p>     
+      </td>
+      <td style="vertical-align: top;"><img src="./images/Pari.jpeg" alt="" width=550pt style=" margin-left:20px;"> <br> </td>
+       <!-- <td style="vertical-align: top;"><img src="./images/Paris.jpeg" alt="" width=300pt> <br>  <font size="1">(Photo par Bernhard Keller.)</font></td>
+     -->
+      </tr>
+  </tbody>
+</table>
+
+<div><h2>Research Interests 🧐</h2></div>
+	<div>
+	  <ol>
+    <li>Cluster algebras, their categorification, their combinatorics, and their links to topology</li>
+    <li>Representation theory of finite-dimensional algebras and dg categories</li>
+	  <!--<li>Homotopy theory, $\infty$-categories </li> -->
+      </ol>
+	</div>
+
+
+<h2> Publications and preprints 😵‍💫</h2>
+
+<h3> Preprints</h3>
+
+<ul>
+  <li> 
+    Yilin Wu, Silting reduction, (relative) AGK's constructions and Higgs constructions</a>, in preparation.
+  </li>
+<li> 
+Yilin Wu, Group actions on Higgs categories and relative clusetr categories</a>, in preparation.
+</li>
+<li> 
+joint with Bernhard Keller, <a href="https://arxiv.org/abs/2307.12279"> Relative cluster categories and Higgs categories with infinite-dimensional morphism spaces</a>, with an appendix by C. Fraser
+and B. Keller.
+</li>
+<li> 
+joint with Jinyi Xu and Guodong Zhou, <a href="./papers/Wu-Xu-Zhou-GAGA.pdf"> GAGA type results for singularity categories.
+</li>   
+</ul>
+
+<h3> Publications </h3>
+
+<ul>
+  <li> Yilin Wu, <a href="https://doi.org/10.1016/j.aim.2023.109040">Relative cluster categories and Higgs categories</a>, Adv. Math. 424 (2023). 
+    (<a href="https://arxiv.org/abs/2109.03707">arXiv:2109.03707</a>)</li>
+
+  <li> Yilin Wu, <a href="https://doi.org/10.1007/s00209-023-03269-8">Categorification of ice quiver mutation</a>, Math. Z. 304, 11 (2023). 
+    (<a href="https://arxiv.org/abs/2109.04503">arXiv:2109.04503</a>)
+  </li>
+
+<li> Yilin Wu and Guodong Zhou, <a href="http://www.aimspress.com/article/doi/10.3934/era.2022028">From short exact sequences of abelian categories 
+  to short exact sequences of homotopy categories and derived categories </a>, Electron. Res. Arch. 30 (2022), no. 2, 535–564.  </li> 
+
+<li>
+  Yilin Wu, <a href="https://www.imj-prg.fr/theses/pdf/yilin_wu.pdf">Relative Calabi-Yau structures in representation theory </a>, Ph.D thesis, 2021.
+</li>
+
+</ul>
+
+
+
+
+
+<h2> Presentations 😁</h2>
+<ul>
+  <li>郑州大学, September 5 and 13, 2022.</li>
+
+  <li>安徽大学, June 23, 2022.</li>
+
+  <li>中山大学 (珠海),  June 10,  2022.</li>
+
+  <li>清华大学代数表示论新春报告会,  January 23,  2022.</li>
+  
+  <li>Interdisciplinary applications of cluster algebras,  Isaac Newton Institute,  26 November,  2021.</li>
+  
+  <li>Séminaire de Théorie des Groupes,  Amiens,  18 November 2021.</li>
+  
+  <li><a href="https://sites.google.com/view/lagoonwebinar/home">LAGOON seminar</a>, 24 June, 2021.</li>
+  
+  <li>VIRTUAL ARTA 2021,  May 21, 2021.</li>
+
+</ul>
+
+
+<div><h2>Useful Links 🐈</h2></div>
+<ul>
+	<li><a href="http://www.math.lsa.umich.edu/~fomin/cluster.html">Cluster Algebras Portal</a></li>
+  <li><a href="https://webusers.imj-prg.fr/~bernhard.keller/quivermutation/">Quiver mutation in Javascript and Java</a>, developed by Prof. Bernhard Keller.</li> 
+  <li><a href="https://fdlist.math.uni-bielefeld.de/t/welcome-to-fdlist/21">FDLIST</a></li>
+  <li><a href="https://kerodon.net/">kerodon.net</a>, an online resource for homotopy-coherent mathematics</li>
+  <li><a href="https://book.themoduli.space/">The Moduli Space</a></li>
+  <li><a href="https://stacks.math.columbia.edu/">The Stacks project </a></li>
+  <li> <a href="http://www.math.columbia.edu/~khovanov/resources/">Representation theory resources and references</a> </li>
+  <li> <a href="http://math.uchicago.edu/~drinfeld/langlands.html">Geometric Langlands Seminar </a></li>
+  <li><a href="https://people.math.harvard.edu/~gaitsgde/GL/">Notes on Geometric Langlands</a></li>
+</ul>
+
+	<div><a href="#top" target="_self">Back to Top</a></div>
+
+  <div><h2>Nice pictures 🥰</h2></div>
+
+  <p align="center"> 
+    <img src="./images/cubic.gif" />  <img src="./images/quartic.gif" /> 
+    <br />
+    The <a href="https://en.wikipedia.org/wiki/Clebsch_surface"> Clebsch cubic surface </a> (left) and the <a href="https://en.wikipedia.org/wiki/Kummer_surface"> Kummer quartic surface</a> (right).
+ </p>
+
+<ul>
+<li>
+<a href="https://info.flagcounter.com/PyDX"><img src="https://s01.flagcounter.com/count2/PyDX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</li>
+</ul>
+
+ <div><a href="#top" target="_self">Back to Top</a></div>
+
+	<HR align="left" width="800"color=""#987cb9"" SIZE="1">
+</div>
+
+
+<div class="footer">
+  <p align="left">Updated on December 5, 2023 </p>
+</div>
+<H1> <img SRC="./images/spinningtaz.gif" height=48 width=40 align=LEFT>
+</H1>
+
+</body>
+
+
+</html>
+
